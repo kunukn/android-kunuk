@@ -1,4 +1,4 @@
-android-kunuk
+Kunuk.dk on android
 =============
 
-android webview
+Simple webview example on Android
